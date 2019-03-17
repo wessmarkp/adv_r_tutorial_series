@@ -2,8 +2,10 @@
 <center>
 <img src="r_tut_series.png" />
 </center>
+
 Title
-=====
+--------
+
 
 #### <b>Contents</b>
 
@@ -23,6 +25,7 @@ Title
     -   Rcpp and C++ implementations
 
 N. <b>Miscellaneous</b> \* Customize themes
+
 
 Subtitle
 --------
