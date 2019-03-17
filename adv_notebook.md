@@ -43,7 +43,7 @@ The idea is to partition DLNotebook into different "tutorial" sections. This fil
 
 Screenshot example
 <center>
-<img src="illustration_test.png" /
+<img src="illustration_test.png" />
 <img src="screen1.png" /> <img src="screen1-dark.png" />
 </center>
 This is a dummy sentence.
