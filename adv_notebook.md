@@ -1,9 +1,9 @@
+
 <center>
 <img src="r_tut_series.png" />
 </center>
-
 Title
---------
+=====
 
 #### <b>Contents</b>
 
@@ -11,17 +11,18 @@ Title
     -   Workspace
     -   Data types
 2.  <b>Visualization guidelines: Grammar of Graphics and ggplot</b>
+
 3.  <b>Tidy data and the tidyverse package</b>
+
 4.  <b>Statistical modeling and machine learning</b>
+
 5.  <b>Markdown documents</b>
     -   Document structure and workflow
     -   Keyboard shortcuts
 6.  <b>Optimize R code</b>
     -   Rcpp and C++ implementations
-7. <b>Another topic here</b>
-8. <b>Another topic here</b>
-9. <b>Miscellaneous</b>
-    -   Customize themes
+
+N. <b>Miscellaneous</b> \* Customize themes
 
 Subtitle
 --------
@@ -29,10 +30,11 @@ Subtitle
 The idea is to partition DLNotebook into different "tutorial" sections. This file serves as a guideline for writing markdown documents on topics included in the Advectas onboarding process.
 <center>
 <img src="illustration_test.jpg" />
-
+</center>
 <b>Figure 1.</b> Illustration example. Fiducial placement and fiber definition. a) Placing two consecutive elliptical fiducials entails specifying the center points.
 
 Screenshot example
+<center>
 <img src="screen1.png" /> <img src="screen1-dark.png" />
 </center>
 This is a dummy sentence.
