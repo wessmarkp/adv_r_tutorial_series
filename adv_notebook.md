@@ -1,9 +1,8 @@
-
 <center>
 <img src="r_tut_series.png" />
 </center>
 
-Tdsdsadsadsadas
+Title
 --------
 
 #### <b>Contents</b>
