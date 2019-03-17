@@ -1,4 +1,6 @@
-<center><img src="r_tut_series.png" /></center>
+<center>
+  <img src="r_tut_series.png" />
+</center>
 
 # Title
 
@@ -40,11 +42,6 @@ The idea is to partition DLNotebook into different "tutorial" sections. This fil
 </p>
 <br>
 <br>
-<p align="center">
-  <img align="center" img src="illustration_test.jpg" />
-</p>
-
-<b>Figure N.</b> Fiducial placement and fiber definition. a) Placing two consecutive elliptical fiducials entails specifying the center points. b) Uniformly distributed fibers in a circular fiducial of radius $R_1$ .
 
 <b>Screenshot examples</b>
 
