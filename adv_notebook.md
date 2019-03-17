@@ -1,10 +1,9 @@
+
 <center>
 <img src="r_tut_series.png" />
 </center>
-
 Title
---------
-
+=====
 
 #### <b>Contents</b>
 
@@ -25,7 +24,6 @@ Title
 
 N. <b>Miscellaneous</b> \* Customize themes
 
-
 Subtitle
 --------
 
@@ -39,8 +37,8 @@ Screenshot example
 <center>
 <img src="screen1.png" /> <img src="screen1-dark.png" />
 </center>
-
 This is a dummy sentence.
+
 ``` r
 head(iris)
 ```
