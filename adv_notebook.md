@@ -6,7 +6,7 @@
 Title
 -----
 
-#### <b>Contents</b>
+#### Contents
 
 1.  <b>Intro to R and RStudio</b>
     -   Workspace
