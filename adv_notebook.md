@@ -39,13 +39,13 @@ The idea is to partition DLNotebook into different tutorial sections. This file 
 
 <p align="center">
   <img src="cnn.png" />
-</p>
+
 
 
 
 <b>Screenshot examples</b>
 
-<p><img src="screen1.png" />
+<img src="screen1.png" />
 <b>Fig. 1.</b> Screenshot 1.
 
 
