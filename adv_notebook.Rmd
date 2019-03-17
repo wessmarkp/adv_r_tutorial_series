@@ -4,7 +4,9 @@ output: github_document
 <center>
 <img src="r_tut_series.png" />
 </center>
+
 ## Introduction to R
+
 ###<b>Contents</b>
 
 1. <b>Intro to R and RStudio</b>
