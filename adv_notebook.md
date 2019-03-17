@@ -40,15 +40,16 @@ The idea is to partition DLNotebook into different tutorial sections. This file 
 <p align="center">
   <img src="cnn.png" />
 </p>
-<br>
-<br>
+
+
 
 <b>Screenshot examples</b>
 
 <center><img src="screen1.png" />
 <b>Fig. 1.</b> Screenshot 1.
-<br>
-<br>
+
+
+
 <img src="screen1-dark.png" />
 <b>Fig. 2.</b> Screenshot 2.
 </center>
