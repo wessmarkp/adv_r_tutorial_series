@@ -4,7 +4,20 @@
 Introduction to R
 =================
 
-Text
+<b>Contents</b>
+
+1.  Intro to R
+2.  Intro to RStudio
+
+-   Workspace etc w/ screenshots
+-   Data types
+-   Grammar of graphics and ggplot
+-   Workflow (for loops etc)
+-   Machine Learning
+
+1.  R Markdown N. Miscellaneous
+
+-   Customize themes
 
 Subtitle
 --------
