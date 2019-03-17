@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 <center>
 <img src="r_tut_series.png" />
 </center>
