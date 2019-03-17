@@ -9,27 +9,19 @@
 1. <b>Intro to R and RStudio</b>
     * Workspace
     * Data types
-
 2. <b>Visualization guidelines: Grammar of Graphics and ggplot</b>
-
 3. <b>Tidy data and the tidyverse package</b>
-
 4. <b>Statistical modeling and machine learning</b>
-
 5. <b>Markdown documents</b>
     * Document structure and workflow
     * Keyboard shortcuts
-
 6. <b>Optimize R code</b>
     * Rcpp and C++ implementations
-
-6. <b>Another section</b>
+7. <b>Another section</b>
     * Subcategory
-    
-6. <b>Another section</b>
+8. <b>Another section</b>
     * Subcategory
-
-7. <b>Miscellaneous</b>
+9. <b>Miscellaneous</b>
 * Customize themes
 
 
@@ -72,10 +64,6 @@ head(iris)
 ```
 <br>
 <b>Session info (for reproducibility)</b>
-
-
-
-
 
 ```r
 sessionInfo()
