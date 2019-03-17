@@ -1,9 +1,9 @@
+
 <center>
 <img src="r_tut_series.png" />
 </center>
-
 Title
---------
+=====
 
 #### <b>Contents</b>
 
@@ -29,9 +29,13 @@ Subtitle
 
 Screenshot example
 <center>
-<img src="screen1.png" /><img src="screen1-dark.png" />
+<img src="screen1.png" /> <img src="screen1-dark.png" />
 </center>
 This is a dummy sentence.
+
+``` r
+head(iris)
+```
 
     ##   Sepal.Length Sepal.Width Petal.Length Petal.Width Species
     ## 1          5.1         3.5          1.4         0.2  setosa
