@@ -33,7 +33,7 @@
 * Customize themes
 
 ## Subtitle
-The idea is to partition DLNotebook into different "tutorial" sections. This file serves as a guideline for writing markdown documents on topics included in the Advectas onboarding process.
+The idea is to partition DLNotebook into different tutorial sections. This file serves as a guideline for writing markdown documents on topics included in the Advectas onboarding process.
 
 <b>Illustration examples</b>
 
