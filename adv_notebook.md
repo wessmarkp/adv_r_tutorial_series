@@ -1,5 +1,5 @@
 
-![](adv_notebook_files/figure-markdown_github/unnamed-chunk-1-1.png)
+<img src="r_tut_series.png" />
 
 Introduction to R
 =================
