@@ -29,11 +29,10 @@ Subtitle
 The idea is to partition DLNotebook into different "tutorial" sections. This file serves as a guideline for writing markdown documents on topics included in the Advectas onboarding process.
 <center>
 <img src="illustration_test.jpg" />
-</center>
+
 <b>Figure 1.</b> Illustration example. Fiducial placement and fiber definition. a) Placing two consecutive elliptical fiducials entails specifying the center points.
 
 Screenshot example
-<center>
 <img src="screen1.png" /> <img src="screen1-dark.png" />
 </center>
 This is a dummy sentence.
