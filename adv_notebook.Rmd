@@ -1,25 +1,39 @@
 ---
 output: github_document
 ---
-![](adv_notebook_files/figure-markdown_github/unnamed-chunk-1-1.png)
-
-```{r fig.height = 2, echo = FALSE, include = FALSE}
-library(png)
-library(grid)
-img <- readPNG("r_tut_series.png")
-grid.raster(img)
-```
-
-
-
+<center>
+<img src="r_tut_series.png" />
+</center>
 # Introduction to R
-Text
+<b>Contents</b>
+
+1. Intro to R
+2. Intro to RStudio
+* Workspace etc w/ screenshots
+* Data types
+* Grammar of graphics and ggplot
+* Workflow (for loops etc)
+* Machine Learning
+3. R Markdown
+N. Miscellaneous
+* Customize themes
+
+
 
 ## Subtitle
 Text
 
 ### Subsubtitle
+This is a dummy sentence.
 ```{r echo = FALSE}
 # echo = FALSE => no comments visible
 head(iris)
 ```
+<center>
+<img src="screenshot1.png" />
+</center>
+<b>Session info (for reproducibility)</b>
+```{r}
+sessionInfo()
+```
+
