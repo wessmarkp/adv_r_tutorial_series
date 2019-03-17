@@ -2,7 +2,8 @@
 <center>
 <img src="r_tut_series.png" />
 </center>
-Introduction to R
+Title
+=====
 
 ### <b>Contents</b>
 
