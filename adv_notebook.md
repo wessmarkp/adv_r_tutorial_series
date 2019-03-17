@@ -3,30 +3,34 @@
 <img src="r_tut_series.png" />
 </center>
 Introduction to R
-=================
+-----------------
 
-<b>Contents</b>
+### <b>Contents</b>
 
-1.  Intro to R
-2.  Intro to RStudio
+1.  <b>Intro to R and RStudio</b>
+    -   Workspace
+    -   Data types
+2.  <b>Visualization guidelines: Grammar of Graphics and ggplot</b>
 
--   Workspace etc w/ screenshots
--   Data types
--   Grammar of graphics and ggplot
--   Workflow (for loops etc)
--   Machine Learning
+3.  <b>Tidy data and the tidyverse package</b>
 
-1.  R Markdown N. Miscellaneous
+4.  <b>Statistical modeling and machine learning</b>
 
--   Customize themes
+5.  <b>Markdown documents</b>
+    -   Document structure and workflow
+    -   Keyboard shortcuts
+6.  <b>Optimize R code</b>
+    -   Rcpp and C++ implementations
+
+N. <b>Miscellaneous</b> \* Customize themes
 
 Subtitle
 --------
 
-Text
-
-### Subsubtitle
-
+Screenshot example
+<center>
+<img src="screen1.png" /> <img src="screen1-dark.png" />
+</center>
 This is a dummy sentence.
 
     ##   Sepal.Length Sepal.Width Petal.Length Petal.Width Species
@@ -37,9 +41,6 @@ This is a dummy sentence.
     ## 5          5.0         3.6          1.4         0.2  setosa
     ## 6          5.4         3.9          1.7         0.4  setosa
 
-<center>
-<img src="screenshot1.png" />
-</center>
 <b>Session info (for reproducibility)</b>
 
 ``` r
