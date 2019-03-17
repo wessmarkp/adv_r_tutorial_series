@@ -5,7 +5,7 @@
 Title
 =====
 
-<b>Contents</b>
+#### <b>Contents</b>
 
 1.  <b>Intro to R and RStudio</b>
     -   Workspace
