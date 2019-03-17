@@ -2,9 +2,6 @@
 <center>
 <img src="r_tut_series.png" />
 </center>
-Title
-=====
-
 ### <b>Contents</b>
 
 1.  <b>Intro to R and RStudio</b>
