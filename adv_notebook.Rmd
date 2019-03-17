@@ -1,19 +1,25 @@
 ---
 output: github_document
 ---
+![](adv_notebook_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
-
-```{r}
+```{r fig.height = 2, echo = FALSE, include = FALSE}
 library(png)
 library(grid)
 img <- readPNG("r_tut_series.png")
 grid.raster(img)
-knitr::opts_chunk$set(message = FALSE, warning = FALSE)
 ```
 
 
 
-
 # Introduction to R
+Text
+
 ## Subtitle
+Text
+
 ### Subsubtitle
+```{r echo = FALSE}
+# echo = FALSE => no comments visible
+head(iris)
+```

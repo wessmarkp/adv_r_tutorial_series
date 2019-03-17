@@ -1,13 +1,15 @@
 
 ![](adv_notebook_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
-Text
-
 Introduction to R
 =================
 
+Text
+
 Subtitle
 --------
+
+Text
 
 ### Subsubtitle
 
