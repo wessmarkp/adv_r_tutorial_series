@@ -1,10 +1,8 @@
 <center>
 <img src="r_tut_series.png" />
 </center>
-
-
 Title
------
+=====
 
 ### Contents
 
@@ -38,10 +36,8 @@ The idea is to partition DLNotebook into different "tutorial" sections. This fil
 <b>Illustration example</b>
 
 <p align="center">
-  <img align="center" img src="illustration_test.jpg" />
+<img align="center" img src="illustration_test.jpg" />
 </p>
-
-
 <b>Figure 1.</b> Fiducial placement and fiber definition. a) Placing two consecutive elliptical fiducials entails specifying the center points.
 
 <b>Screenshot example</b>
@@ -49,10 +45,8 @@ The idea is to partition DLNotebook into different "tutorial" sections. This fil
 <center>
 <img src="screen1.png" /><img src="screen1-dark.png" />
 </center>
-
 This is a dummy sentence.
 
-Some code here:
 ``` r
 head(iris)
 ```
