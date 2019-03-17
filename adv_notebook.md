@@ -3,7 +3,7 @@
 <img src="r_tut_series.png" />
 </center>
 Title
-=====
+-----
 
 #### <b>Contents</b>
 
