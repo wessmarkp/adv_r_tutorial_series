@@ -72,7 +72,7 @@ head(iris)
 ```
 <br>
 <b>Session info (for reproducibility)</b>
-
+<br>
 ```r
 sessionInfo()
 ```
