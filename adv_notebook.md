@@ -70,7 +70,7 @@ head(iris)
 ## 5          5.0         3.6          1.4         0.2  setosa
 ## 6          5.4         3.9          1.7         0.4  setosa
 ```
-
+<br>
 <b>Session info (for reproducibility)</b>
 
 ```r
