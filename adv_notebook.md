@@ -22,7 +22,7 @@
 8. <b>Another section</b>
     * Subcategory
 9. <b>Miscellaneous</b>
-* Customize themes
+    * Customize themes
 
 
 ## Subtitle
