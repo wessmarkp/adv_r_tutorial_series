@@ -5,9 +5,10 @@ output: github_document
 <img src="r_tut_series.png" />
 </center>
 
-## Introduction to R
 
-###<b>Contents</b>
+# Title
+
+####<b>Contents</b>
 
 1. <b>Intro to R and RStudio</b>
     * Workspace
@@ -30,6 +31,8 @@ N. <b>Miscellaneous</b>
 * Customize themes
 
 ## Subtitle
+The idea is to partition DLNotebook into different "tutorial" sections. This file serves as a guideline writing markdown documents on topics included in the Advectas onboarding process.
+
 Screenshot example
 <center>
 <img src="screen1.png" />
@@ -37,8 +40,7 @@ Screenshot example
 </center>
 
 This is a dummy sentence.
-```{r echo = FALSE}
-# echo = FALSE => no code visible
+```{r echo = TRUE}
 head(iris)
 ```
 
