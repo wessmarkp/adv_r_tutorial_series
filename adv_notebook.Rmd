@@ -2,7 +2,17 @@
 output: github_document
 ---
 
-![](r_tut_series.png)
+
+```{r}
+library(png)
+library(grid)
+img <- readPNG("r_tut_series.png")
+grid.raster(img)
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+```
+
+
+
 
 # Introduction to R
 ## Subtitle
