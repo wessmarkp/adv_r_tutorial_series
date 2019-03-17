@@ -1,0 +1,9 @@
+---
+output: github_document
+---
+
+![](r_tut_series.png)
+
+# Introduction to R
+## Subtitle
+### Subsubtitle
