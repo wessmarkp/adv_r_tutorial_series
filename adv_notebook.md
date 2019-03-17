@@ -49,6 +49,7 @@ The idea is to partition DLNotebook into different tutorial sections. This file 
 
 This is a dummy sentence.
 
+Some code:
 ```r
 head(iris)
 ```
