@@ -29,7 +29,7 @@ Subtitle
 
 Screenshot example
 <center>
-<img src="screen1.png" /> <img src="screen1-dark.png" />
+<img src="screen1.png" /><img src="screen1-dark.png" />
 </center>
 This is a dummy sentence.
 
